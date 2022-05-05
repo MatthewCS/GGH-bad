@@ -1,0 +1,5 @@
+Hello, world!
+
+This is a test input file for the GGH cryptosystem.
+0123456789abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ
+The quick brown fox jumps over the lazy dog.
